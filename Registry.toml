@@ -1,0 +1,5 @@
+name = "EpiRegistry"
+uuid = "26539dc5-a174-43eb-a619-f6f40fb70910"
+repo = "https://github.com/alexpkeil1/EpiRegistry.git"
+
+[packages]
