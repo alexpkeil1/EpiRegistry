@@ -12,3 +12,8 @@ StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
 
 ["0.5 - 0"]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+["0.8 - 0"]
+Loess = "4345ca2d-374a-55d4-8d30-97f9976e7612"
+Measures = "442fdcdd-2543-5da2-b0f3-8c86c306513e"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
