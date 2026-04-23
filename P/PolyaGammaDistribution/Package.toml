@@ -1,0 +1,4 @@
+name = "PolyaGammaDistribution"
+uuid = "4fb849aa-c7ab-402c-99a2-1d769d3c2f8e"
+authors = ["Alex Keil <alexpkeil1@users.noreply.github.com>"]
+repo = "https://github.com/alexpkeil1/PolyaGammaDistribution.jl.git"
