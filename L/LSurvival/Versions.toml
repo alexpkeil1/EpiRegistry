@@ -17,8 +17,7 @@ git-tree-sha1 = "7abc94bb63af2a6f188e24140e0331ccbdfa843c"
 git-tree-sha1 = "ea5094f407b88692aa4030cd29bf2faf3926d473"
 
 ["1.7.5"]
-git-tree-sha1 = "c77c1412cc6ae2ae34de18d0e04fa72b35942df2"
+git-tree-sha1 = "973a8258ed35f2a10b39c7303a46126296a720fc"
 
-# find in repository via `git ls-tree HEAD` > look for .github entry
-# calls: git rev-parse HEAD
-#  git rev-parse v1.7.5 # for each tagged version
+# find tree for specific tag at
+# git rev-parse <tag>^{tree} # within the github project base directory 

@@ -1,2 +1,6 @@
 ["1.0.0"]
 git-tree-sha1 = "218c689686f9c0c39d2738497f58ac1f4ef3e26e"
+
+
+# find tree for specific tag at
+# git rev-parse <tag>^{tree} # within the github project base directory 
