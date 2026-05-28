@@ -19,5 +19,4 @@ git-tree-sha1 = "ea5094f407b88692aa4030cd29bf2faf3926d473"
 ["1.7.5"]
 git-tree-sha1 = "42aa276ead64cc8e2d178afa8af22064ff99735c"
 
-# find in repository via `git ls-tree HEAD`
-# or `git rev-parse <tag>`
+# find in repository via `git ls-tree HEAD` > look for .github entry
