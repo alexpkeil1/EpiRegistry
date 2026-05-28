@@ -15,3 +15,4 @@ Then you can add any package (within the package REPL) using:
 - `add LSurvival`
 - `add PolyaGammaDistribution`
 
+
