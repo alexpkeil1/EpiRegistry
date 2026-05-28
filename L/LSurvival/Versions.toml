@@ -21,4 +21,4 @@ git-tree-sha1 = "c77c1412cc6ae2ae34de18d0e04fa72b35942df2"
 
 # find in repository via `git ls-tree HEAD` > look for .github entry
 # calls: git rev-parse HEAD
-#  git rev-parse v1.7.5
+#  git rev-parse v1.7.5 # for each tagged version
