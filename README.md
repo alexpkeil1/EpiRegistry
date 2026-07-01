@@ -18,6 +18,7 @@ Then you can add any package (within the package REPL) using:
 Locally, this was built with:
 
 ("test.txt" file in the registry root folder, if present (uses LocalRegistry))
+
 ```
 cd(regPath)
 using LocalRegistry
