@@ -16,5 +16,5 @@ git-tree-sha1 = "3d1d7a31ffe30e66390027bd1a9c575edd99bf62"
 ["0.9.4"]
 git-tree-sha1 = "1cb18e9aa61c9ed11a8149b42ff0080fbf909884"
 
-# find tree for specific tag at
-# git rev-parse <tag>^{tree} # within the github project base directory 
+["0.9.5"]
+git-tree-sha1 = "66d44a100d891690f53afd9fa15daab16a570777"
