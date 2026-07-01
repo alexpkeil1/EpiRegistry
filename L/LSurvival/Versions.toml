@@ -25,3 +25,4 @@ git-tree-sha1 = "e4c57706f9270000e748c28356205043080a6efd"
 
 # find tree for specific tag at
 # git rev-parse <tag>^{tree} # within the github project base directory 
+# better: run the "test.txt" file in the registry folder, if present (uses LocalRegistry)

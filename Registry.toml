@@ -4,4 +4,5 @@ repo = "https://github.com/alexpkeil1/EpiRegistry.git"
 
 [packages]
 0b759ec4-1e0e-48f5-a120-aab12489aed1 = { name = "Qgcomp", path = "Q/Qgcomp" }
+4fb849aa-c7ab-402c-99a2-1d769d3c2f8e = { name = "PolyaGammaDistribution", path = "P/PolyaGammaDistribution" }
 edbbf5c1-874b-40a5-8c9f-d8fc918aacaa = { name = "LSurvival", path = "L/LSurvival" }
