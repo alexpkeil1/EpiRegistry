@@ -22,7 +22,5 @@ git-tree-sha1 = "973a8258ed35f2a10b39c7303a46126296a720fc"
 ["1.7.6"]
 git-tree-sha1 = "e4c57706f9270000e748c28356205043080a6efd"
 
-
-# find tree for specific tag at
-# git rev-parse <tag>^{tree} # within the github project base directory 
-# better: run the "test.txt" file in the registry folder, if present (uses LocalRegistry)
+["1.7.7"]
+git-tree-sha1 = "5b18f62624ac2377d4df1a5a61ec10d849ad39a1"
