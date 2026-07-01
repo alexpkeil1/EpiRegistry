@@ -4,7 +4,7 @@ SpecialFunctions = "2"
 ["1-1.7.3"]
 Documenter = ["0.20-0.30", "1"]
 NLSolversBase = "7-8"
-Optim = "1.1, 2"
+Optim = "1.1.0-2"
 RecipesBase = "1"
 Reexport = "1"
 StatsBase = "0.34-0.35"
